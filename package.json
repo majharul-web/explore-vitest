@@ -13,6 +13,7 @@
     "vitest": "^0.34.6"
   },
   "dependencies": {
+    "crypto": "^1.0.1",
     "crypto-js": "^4.2.0",
     "jsonwebtoken": "^9.0.2"
   }
